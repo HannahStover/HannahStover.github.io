@@ -48,8 +48,7 @@ header.startup h1 {
 .btn-primary {
   background-color: #479030;
   border-color: #479030;
-  transform-style: transparent;
-  opacity: 25%; 
+  opacity: 0%
 }
 
 .btn-primary:hover {
@@ -57,5 +56,4 @@ header.startup h1 {
   border-color: #609732;
   border-width: 5px;
   cursor: pointer;
-  opacity: 25%
 }
