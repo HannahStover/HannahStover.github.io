@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Asap', sans-serif;
 }
 
 hr {
@@ -20,7 +20,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("notalone.jpeg");
   background-size: cover;
   height: 100%;
 }
