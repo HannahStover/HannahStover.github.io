@@ -6,6 +6,7 @@ html {
 
 body {
   font-family: 'Asap', sans-serif;
+  margin: auto 0;
 }
 
 hr {
@@ -70,12 +71,12 @@ a {
 
 /*HEADER*/
 
-header.startup {
+/*header.startup {
   background-position: center;
   background-image: url("notalone.jpeg");
   background-size: cover;
   height: 100%;
-}
+}*/
 
 header.startup hr {
   margin-top: 200px;
