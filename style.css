@@ -14,8 +14,31 @@ hr {
   border-color: #479030; 
 }
 
+.zone {
+    cursor:pointer;
+    color:#FFF;
+    font-size:2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
 .faded {
   color: rgba(255, 255, 255, 0.8); 
+}
+
+/*NAV*/
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%; 
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+    font-size: 0.7em;
+    margin: 0;
 }
 
 header.startup {
